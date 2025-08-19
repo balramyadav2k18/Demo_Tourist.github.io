@@ -1,0 +1,11 @@
+{
+"name": "Bangalore Tourism",
+"short_name": "BLR Tourism",
+"start_url": "index.html",
+"display": "standalone",
+"background_color": "#f7f6f2",
+"theme_color": "#0b3d2e",
+"icons": [
+{ "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+]
+}

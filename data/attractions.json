@@ -1,0 +1,134 @@
+[
+{
+"name": "Bangalore Palace",
+"area": "Vasanth Nagar",
+"type": "heritage",
+"hours": "10:00–5:30",
+"entryFee": "₹240–₹480 (approx)",
+"bestTime": "Oct–Feb mornings",
+"shortDesc": "Tudor-style palace with grand interiors and expansive grounds.",
+"img": "https://images.unsplash.com/photo-1655723813566-2f2da7514511?q=80&w=800&auto=format&fit=crop",
+"mapLink": "#"
+},
+{
+"name": "Lalbagh Botanical Garden",
+"area": "South Bengaluru",
+"type": "garden",
+"hours": "6:00–7:00",
+"entryFee": "₹30 (approx)",
+"bestTime": "Mornings; Jan/Aug flower shows",
+"shortDesc": "Historic garden, glasshouse, and serene walking trails.",
+"img": "https://images.unsplash.com/photo-1529307474719-3d0d4b993a59?q=80&w=800&auto=format&fit=crop",
+"mapLink": "#"
+},
+{
+"name": "Cubbon Park",
+"area": "Central Bengaluru",
+"type": "garden",
+"hours": "Open early–late",
+"entryFee": "Free",
+"bestTime": "Early mornings",
+"shortDesc": "Tree-lined avenues, museums nearby, perfect for a city stroll.",
+"img": "https://images.unsplash.com/photo-1520975922284-0ebdaedb5f4b?q=80&w=800&auto=format&fit=crop",
+"mapLink": "#"
+},
+{
+"name": "Vidhana Soudha (Exterior)",
+"area": "Central Bengaluru",
+"type": "heritage",
+"hours": "Exterior viewing",
+"entryFee": "Free",
+"bestTime": "Golden hour",
+"shortDesc": "Iconic seat of state legislature; grand neo-Dravidian architecture.",
+"img": "https://images.unsplash.com/photo-1601622217773-b5c0b2d5c3c0?q=80&w=800&auto=format&fit=crop",
+"mapLink": "#"
+},
+{
+"name": "Tipu Sultan’s Summer Palace",
+"area": "Kalasipalya",
+"type": "heritage",
+"hours": "8:30–5:30",
+"entryFee": "₹15–₹200 (approx)",
+"bestTime": "Mornings",
+"shortDesc": "Teak arches and Indo-Islamic art within a compact complex.",
+"img": "https://images.unsplash.com/photo-1599919444574-0b6c2d9b01de?q=80&w=800&auto=format&fit=crop",
+"mapLink": "#"
+},
+{
+"name": "Bannerghatta Biological Park",
+"area": "South outskirts",
+"type": "nature",
+"hours": "9:30–5:00 (closed Tue)",
+"entryFee": "Varies",
+"bestTime": "Cool mornings",
+"shortDesc": "Safari experiences and a zoological park near the city.",
+"img": "https://images.unsplash.com/photo-1566137023139-53adab8b81a7?q=80&w=800&auto=format&fit=crop",
+"mapLink": "#"
+},
+{
+"name": "ISKCON Temple",
+"area": "Rajajinagar",
+"type": "temple",
+"hours": "4:30–9:00",
+"entryFee": "Free",
+"bestTime": "Evenings",
+"shortDesc": "Temple complex with devotional music and city views.",
+"img": "https://images.unsplash.com/photo-1608478817849-4c4fdb57ac35?q=80&w=800&auto=format&fit=crop",
+"mapLink": "#"
+},
+{
+"name": "UB City",
+"area": "CBD",
+"type": "shopping",
+"hours": "10:30–10:00",
+"entryFee": "Free",
+"bestTime": "Evenings",
+"shortDesc": "Luxury mall with fine dining and events in the central district.",
+"img": "https://images.unsplash.com/photo-1520975922284-0ebdaedb5f4b?q=80&w=800&auto=format&fit=crop",
+"mapLink": "#"
+},
+{
+"name": "Commercial Street",
+"area": "Shivajinagar",
+"type": "shopping",
+"hours": "10:00–9:00",
+"entryFee": "Free",
+"bestTime": "Evenings on weekdays",
+"shortDesc": "Bargain fashion, accessories, and street snacks.",
+"img": "https://images.unsplash.com/photo-1520975922284-0ebdaedb5f4b?q=80&w=800&auto=format&fit=crop",
+"mapLink": "#"
+},
+{
+"name": "HAL Heritage Centre & Aerospace Museum",
+"area": "Marathahalli",
+"type": "museum",
+"hours": "9:00–5:00",
+"entryFee": "₹50 (approx)",
+"bestTime": "Mornings",
+"shortDesc": "Aviation exhibits, engines, and aircraft displays.",
+"img": "https://images.unsplash.com/photo-1517420704952-3e6a434b5d37?q=80&w=800&auto=format&fit=crop",
+"mapLink": "#"
+},
+{
+"name": "Nandi Hills",
+"area": "Chikkaballapur (60km)",
+"type": "daytrip",
+"hours": "Sunrise–Sunset",
+"entryFee": "Nominal",
+"bestTime": "Sunrise",
+"shortDesc": "Famous sunrise point with hill views; popular day trip.",
+"img": "https://images.unsplash.com/photo-1580137226086-98fa578c64a9?q=80&w=800&auto=format&fit=crop",
+"mapLink": "#"
+},
+{
+"name": "Church Street & MG Road",
+"area": "CBD",
+"type": "shopping",
+"hours": "All day, peak evenings",
+"entryFee": "Free",
+"bestTime": "Evenings",
+"shortDesc": "Bookshops, cafes, nightlife, and street events in the heart of the city.",
+"img": "https://images.unsplash.com/photo-1520975922284-0ebdaedb5f4b?q=80&w=800&auto=format&fit=crop",
+"mapLink": "#"
+}
+]
